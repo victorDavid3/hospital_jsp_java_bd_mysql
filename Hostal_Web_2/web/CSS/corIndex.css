@@ -1,0 +1,147 @@
+body { 
+	background-color: #000066;
+} 
+  h3, h2, h1,legend{
+  	color: #FFFFFF;
+  } 
+  hr{
+       border-top: 1px dashed #000066;
+  }
+  legend{
+      text-transform: uppercase;
+  }
+
+  samp{
+    font-size: 20px;
+     color: #FFFFFF;
+  }
+
+  p{
+    font-size: 20px;
+     color: #FFFFFF;
+  }
+  
+  
+  label{
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  
+  img{
+      height: auto;
+      width: auto;
+  }
+  
+  .links{
+      text-decoration: none;
+      color: #FFFFFF;
+      font-size: 30px;
+      background-color: red;
+  }
+  
+  .table-responsive{
+  background-color: #FFFFFF;
+  text-align:center;
+  border-radius: 10px;
+  font-size: auto;
+  font-weight:bold;
+  
+  margin-left: 2%;
+  margin-right: 2%;
+  
+  max-width: 96%;
+  width: auto;
+  height: autou;
+}
+
+#alertCads{
+    margin-right:5%;
+    margin-left:5%;
+}
+
+ .quad{
+
+ 	background-color:#483D8B;
+ 	height: auto;
+        max-width: 90%;
+ 	width: auto;
+ 	margin-right:5%;
+ 	margin-left:5%;
+ 	padding-left:5%; 
+        padding-right: 5%;
+ 	border-radius: 20px;
+
+ }
+ 
+ .quad2{
+  padding:2%; 
+ 
+  border-width: medium;
+  border-style: solid;
+  border-color: #FFFFFF;
+  border-radius: 20px;
+  
+  width: 96%;
+  height: auto;
+  
+  	margin-right:2%;
+ 	margin-left:2%;
+  text-align: center;
+  
+}
+
+ .quad3{
+  padding:2%; 
+  
+  border-width: medium;
+  border-style: solid;
+  border-color: #FFFFFF;
+  border-radius: 20px;
+  
+  width: auto;
+  height: auto;
+  
+
+  
+  	margin-right:4%;
+ 	
+   text-align: center;
+}
+ 
+
+
+ #cab{
+  text-align: center;
+  
+ }
+ 
+
+#dataHora{
+   text-align: center;
+    background-color: black;
+    padding: 1%;
+    border-radius: 20px;
+     margin: 1%;
+    margin-right:5%;
+    margin-left:5%;
+   
+    
+}
+
+#selecion{
+    max-width: 25%;
+}
+
+
+#paci,#medico,#calendario{
+    text-align: center;
+    float: left;
+    margin: 2%;
+    margin-left: 10%;
+}
+
+#qua{
+    float: left;
+    
+}
+
